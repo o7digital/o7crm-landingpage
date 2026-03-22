@@ -678,7 +678,7 @@ const CONTENT = {
 
 function getInitialLanguage() {
   if (typeof window === 'undefined') {
-    return 'en'
+    return 'es'
   }
 
   const savedLanguage = window.localStorage.getItem('o7-language')
@@ -687,17 +687,7 @@ function getInitialLanguage() {
     return savedLanguage
   }
 
-  const browserLanguage = window.navigator.language.toLowerCase()
-
-  if (browserLanguage.startsWith('fr')) {
-    return 'fr'
-  }
-
-  if (browserLanguage.startsWith('es')) {
-    return 'es'
-  }
-
-  return 'en'
+  return 'es'
 }
 
 export default function O7LandingPage() {
