@@ -165,7 +165,7 @@ const CONTENT = {
       plans: [
         {
           name: 'Core',
-          price: '$99',
+          price: '$29',
           subtitle: '/month',
           description:
             'For small teams that need a real CRM foundation without paying for enterprise overhead from day one.',
@@ -183,7 +183,7 @@ const CONTENT = {
         },
         {
           name: 'Growth',
-          price: '$249',
+          price: '$79',
           subtitle: '/month',
           description:
             'For B2B and B2C teams that want complete CRM coverage, faster execution, and a cleaner operating system for growth.',
@@ -200,11 +200,11 @@ const CONTENT = {
           recommended: true,
         },
         {
-          name: 'Scale',
+          name: 'Enterprise',
           price: 'Custom',
           subtitle: '/plan',
           description:
-            'For companies that need multi-team visibility, deeper configuration, and a premium implementation path without legacy CRM sprawl.',
+            'For companies that need enterprise-grade visibility, deeper configuration, and a premium implementation path without legacy CRM sprawl.',
           features: [
             'Advanced permissions',
             'Multi-team workspaces',
@@ -214,7 +214,7 @@ const CONTENT = {
             'Dedicated success support',
           ],
           cta: 'Talk to Sales',
-          badge: 'Tailored',
+          badge: 'Enterprise',
           recommended: false,
         },
       ],
@@ -387,7 +387,7 @@ const CONTENT = {
       plans: [
         {
           name: 'Core',
-          price: '$99',
+          price: '$29',
           subtitle: '/mois',
           description:
             'Pour les petites équipes qui ont besoin d’une vraie base CRM sans payer une lourdeur enterprise dès le départ.',
@@ -405,7 +405,7 @@ const CONTENT = {
         },
         {
           name: 'Growth',
-          price: '$249',
+          price: '$79',
           subtitle: '/mois',
           description:
             'Pour les équipes B2B et B2C qui veulent une vraie couverture CRM, une meilleure exécution et un système de croissance plus propre.',
@@ -422,11 +422,11 @@ const CONTENT = {
           recommended: true,
         },
         {
-          name: 'Scale',
+          name: 'Enterprise',
           price: 'Sur devis',
           subtitle: '/offre',
           description:
-            'Pour les entreprises qui ont besoin d’une visibilité multi-équipes, d’une configuration plus profonde et d’un déploiement premium sans la dispersion d’un CRM legacy.',
+            'Pour les entreprises qui ont besoin d’une visibilité enterprise, d’une configuration plus profonde et d’un déploiement premium sans la dispersion d’un CRM legacy.',
           features: [
             'Permissions avancées',
             'Espaces multi-équipes',
@@ -436,7 +436,7 @@ const CONTENT = {
             'Support success dédié',
           ],
           cta: 'Parler à l’équipe',
-          badge: 'Sur mesure',
+          badge: 'Enterprise',
           recommended: false,
         },
       ],
@@ -609,7 +609,7 @@ const CONTENT = {
       plans: [
         {
           name: 'Core',
-          price: '$99',
+          price: '$29',
           subtitle: '/mes',
           description:
             'Para equipos pequeños que necesitan una base CRM real sin pagar sobrecarga enterprise desde el primer día.',
@@ -627,7 +627,7 @@ const CONTENT = {
         },
         {
           name: 'Growth',
-          price: '$249',
+          price: '$79',
           subtitle: '/mes',
           description:
             'Para equipos B2B y B2C que quieren cobertura CRM completa, mejor ejecución y un sistema de crecimiento más limpio.',
@@ -644,11 +644,11 @@ const CONTENT = {
           recommended: true,
         },
         {
-          name: 'Scale',
+          name: 'Enterprise',
           price: 'A medida',
           subtitle: '/plan',
           description:
-            'Para empresas que necesitan visibilidad multi-equipo, configuración más profunda y una implementación premium sin el caos de un CRM legacy.',
+            'Para empresas que necesitan visibilidad enterprise, una configuración más profunda y una implementación premium sin el caos de un CRM legacy.',
           features: [
             'Permisos avanzados',
             'Espacios multi-equipo',
@@ -658,7 +658,7 @@ const CONTENT = {
             'Soporte dedicado',
           ],
           cta: 'Hablar con ventas',
-          badge: 'Personalizado',
+          badge: 'Enterprise',
           recommended: false,
         },
       ],
