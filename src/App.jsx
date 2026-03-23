@@ -390,9 +390,9 @@ const CONTENT = {
           price: '$29',
           subtitle: '/mois',
           description:
-            'Pour les petites équipes qui ont besoin d’une vraie base CRM sans payer une lourdeur enterprise dès le départ.',
+            'Pour les indépendants et les professions libérales qui veulent une base CRM claire, simple et efficace dès le départ.',
           features: [
-            'Jusqu’à 3 utilisateurs',
+            '1 utilisateur',
             'Contacts et sociétés',
             'Pipeline leads et opportunités',
             'Tâches, rappels et timeline d’activité',
@@ -400,7 +400,7 @@ const CONTENT = {
             'Reporting de base',
           ],
           cta: 'Commencer avec Core',
-          badge: 'Démarrage léger',
+          badge: 'Indépendants',
           recommended: false,
         },
         {
@@ -408,7 +408,7 @@ const CONTENT = {
           price: '$79',
           subtitle: '/mois',
           description:
-            'Pour les équipes B2B et B2C qui veulent une vraie couverture CRM, une meilleure exécution et un système de croissance plus propre.',
+            'Pour les petites entreprises qui ont besoin d’un CRM structuré pour collaborer efficacement et piloter leur croissance.',
           features: [
             'Jusqu’à 10 utilisateurs',
             'Pipelines et étapes personnalisés',
@@ -418,7 +418,7 @@ const CONTENT = {
             'Onboarding prioritaire',
           ],
           cta: 'Choisir Growth',
-          badge: 'Meilleur choix',
+          badge: 'Petites entreprises',
           recommended: true,
         },
         {
@@ -426,8 +426,9 @@ const CONTENT = {
           price: 'Sur devis',
           subtitle: '/offre',
           description:
-            'Pour les entreprises qui ont besoin d’une visibilité enterprise, d’une configuration plus profonde et d’un déploiement premium sans la dispersion d’un CRM legacy.',
+            'Pour les grandes entreprises qui ont besoin d’une configuration avancée, d’une gouvernance renforcée et d’un accompagnement premium.',
           features: [
+            'Plus de 10 utilisateurs',
             'Permissions avancées',
             'Espaces multi-équipes',
             'Structure de reporting personnalisée',
@@ -436,7 +437,7 @@ const CONTENT = {
             'Support success dédié',
           ],
           cta: 'Parler à l’équipe',
-          badge: 'Enterprise',
+          badge: 'Grandes entreprises',
           recommended: false,
         },
       ],
